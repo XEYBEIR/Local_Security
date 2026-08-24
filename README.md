@@ -9,7 +9,7 @@ Tarayıcınızda dilediğiniz web sitelerine erişimi şifreleyen, erişim geçm
 ### 1. Kilit Ekranı (Şifre İsteme)
 Korumalı bir siteye girilmek istendiğinde kullanıcıyı karşılayan kilit ekranı.
 
-![Kilit Ekranı](images/kilit-ekrani.png)
+![Kilit Ekranı](3.png)
 <!-- İpucu: Kilit ekranının ekran görüntüsünü alıp 'images/kilit-ekrani.png' ismiyle kaydedebilirsiniz -->
 
 ---
@@ -17,7 +17,7 @@ Korumalı bir siteye girilmek istendiğinde kullanıcıyı karşılayan kilit ek
 ### 2. Web Yönetim Paneli
 Tüm engelli siteleri, kullanıcıları ve güvenlik loglarını yönetebileceğiniz ana panel.
 
-![Web Yönetim Paneli](images/web-paneli.png)
+![Web Yönetim Paneli](2.png)
 <!-- İpucu: Yönetim panelinin ekran görüntüsünü alıp 'images/web-paneli.png' ismiyle kaydedebilirsiniz -->
 
 ---
@@ -25,7 +25,7 @@ Tüm engelli siteleri, kullanıcıları ve güvenlik loglarını yönetebileceğ
 ### 3. Hızlı Pop-up Menü
 Tek tıkla korumayı aktif/pasif yapabileceğiniz ve panele hızlıca geçebileceğiniz arayüz.
 
-![Hızlı Menü](images/popup-menu.png)
+![Hızlı Menü](1.png)
 <!-- İpucu: Pop-up menünün ekran görüntüsünü alıp 'images/popup-menu.png' ismiyle kaydedebilirsiniz -->
 
 ---
