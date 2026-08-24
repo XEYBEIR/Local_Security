@@ -50,5 +50,7 @@ Tek tıkla korumayı aktif/pasif yapabileceğiniz ve panele hızlıca geçebilec
 
 ## 🔐 Varsayılan Giriş Bilgileri
 
-* **Kullanıcı Adı:** `admin`
-* **Şifre:** `admin123`
+Varsayılan bir şifre ile kullanıcı adı vardır. bunlarla giriş yapıp, şifreyi değiştirmelidir.
+
+## ⚠️​ Proje Çok Yakın Zamanda v1.0 Kesin Sürümünü Yayınlayacaktır
+
